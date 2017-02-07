@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "portfolio-starter",
   "version": "1.0.0",
   "description": "my portfolio for free code camp",
   "main": "gulpfile.js",
