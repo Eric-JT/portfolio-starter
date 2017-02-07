@@ -462,7 +462,7 @@ header {
   max-width: 767px; }
 
 .page-header {
-  background: no-repeat url("/img/header/header.jpg");
+  background: no-repeat url("/portfolio-starter/img/header/header.jpg");
   background-size: cover;
   margin: 0;
   padding: 5em 0 15em 0; }
